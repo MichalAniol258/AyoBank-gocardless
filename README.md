@@ -26,6 +26,7 @@ git clone https://github.com/MichalAniol258/AyoBank-gocardless.git
 cd AyoBank-gocardless
 npm install
 npm run dev
+```
 
 ```bash
 GC_SECRET_ID=GOCARDLESS_SECRET_ID
