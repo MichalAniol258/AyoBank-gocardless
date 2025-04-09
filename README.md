@@ -27,6 +27,7 @@ cd AyoBank-gocardless
 npm install
 npm run dev
 ```
+Env file:
 
 ```bash
 GC_SECRET_ID=GOCARDLESS_SECRET_ID
